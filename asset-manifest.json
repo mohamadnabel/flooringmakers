@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/flooringmakers/static/css/main.073c9b0a.css",
+    "main.js": "/flooringmakers/static/js/main.f80d67d1.js",
+    "static/js/787.f6674a32.chunk.js": "/flooringmakers/static/js/787.f6674a32.chunk.js",
+    "static/media/logo.svg": "/flooringmakers/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/flooringmakers/index.html",
+    "main.073c9b0a.css.map": "/flooringmakers/static/css/main.073c9b0a.css.map",
+    "main.f80d67d1.js.map": "/flooringmakers/static/js/main.f80d67d1.js.map",
+    "787.f6674a32.chunk.js.map": "/flooringmakers/static/js/787.f6674a32.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.f80d67d1.js"
+  ]
+}
